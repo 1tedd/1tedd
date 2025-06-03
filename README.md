@@ -1,90 +1,63 @@
 <div align="center">
-  <h1>👋 Merhaba, Ben 1tedd!</h1>
-  <p>Tutkulu bir yazılım geliştiriciyim ve her zaman yeni şeyler öğrenmeye açığım.</p>
-  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=0e75b6&style=flat-square" alt="1tedd profil görüntülenme sayısı" />
+  <a href="https://github.com/1tedd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=79E6F3&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+1tedd!%F0%9F%91%8B;Tutkulu+Bir+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiriciyim.;Her+Zaman+%C3%96%C4%9Frenmeye+A%C3%A7%C4%B1%C4%9F%C4%B1m." alt="Merhaba, Ben 1tedd! - Yazılım Geliştirici" />
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=DB64A2&style=flat-square&logo=github" alt="1tedd profil görüntülenme sayısı" />
 </div>
 
 ---
 
-### 🌐 Benimle Bağlantı Kurun:
+### 🔗 **Benimle İletişime Geçin**
 <p align="center">
-  <a href="https://www.instagram.com/merhabalar.ben.volkan.konak/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/merhabalar.ben.volkan.konak/" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://discordapp.com/users/1ted_" target="_blank"> <!-- Discord kullanıcı ID'niz veya sunucu davet linkiniz buraya gelebilir -->
-    <img src="https://img.shields.io/badge/Discord-1ted_-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discordapp.com/users/1ted_" target="_blank" style="margin: 0 8px;">
+    <img src="https://img.shields.io/badge/Discord-1ted_-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
 ---
 
-### 💻 Teknoloji Yığınım (Tech Stack):
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+### 📊 **GitHub İstatistiklerim**
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=1tedd&show_icons=true&locale=tr&theme=dracula&hide_border=true&rank_icon=github&card_width=480&title_color=DB64A2&icon_color=79E6F3&text_color=EDEDED" alt="1tedd GitHub İstatistikleri" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <br/><br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&locale=tr&theme=dracula&hide_border=true&card_width=480&title_color=DB64A2&text_color=EDEDED" alt="1tedd En Çok Kullanılan Diller" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/React-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### 🛠️ Geliştirme Araçlarım (Development Tools):
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91.svg?&style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio 2022"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/GIT-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-</p>
+### 💻 **Teknoloji ve Araçlarım**
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" style="margin:6px;"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin:6px;"/>
+</div>
 
 ---
 
 <div align="center">
-  <em>Sürekli öğreniyor ve kendimi geliştiriyorum. Yeni projeler ve işbirlikleri için her zaman heyecanlıyım!</em>
-  <br/><br/>
+  <p><em>Sürekli öğreniyor ve kendimi geliştiriyorum. Yeni projeler ve işbirlikleri için her zaman heyecanlıyım!</em></p>
   <a href="https://github.com/1tedd?tab=repositories" target="_blank">
-    <img alt="Projelerim" src="https://img.shields.io/badge/-Projelerime Göz Atın-blue?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="Projelerim" src="https://img.shields.io/badge/-Projelerime%20G%C3%B6z%20At%C4%B1n-%23333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
-<!--
-Daha fazla kişiselleştirme için:
-- GitHub İstatistikleri: https://github.com/anuraghazra/github-readme-stats
-- En Çok Kullanılan Diller: https://github.com/anuraghazra/github-readme-stats (aynı repo içinde)
-- Wakatime İstatistikleri: https://github.com/anuraghazra/waka-readme-stats
-- GitHub Aktivite Grafiği: https://github.com/ashutosh00710/github-readme-activity-graph
-- Güzel ikonlar için: https://devicon.dev/ veya https://simpleicons.org/
--->
+
