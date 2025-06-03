@@ -2,7 +2,7 @@
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=79E6F3&center=true&vCenter=true&width=700&lines=Merhaba%2C+Ben+1tedd!%F0%9F%91%8B;Tutkulu+Bir+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiriciyim.;Her+Zaman+%C3%96%C4%9Frenmeye+A%C3%A7%C4%B1%C4%9F%C4%B1m." alt="Merhaba, Ben 1tedd! - Yazılım Geliştirici" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=79E6F3&center=true&vCenter=true&width=700&lines=Merhaba%2C+Ben+Ted!%F0%9F%91%8B;Tutkulu+Bir+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiricisiyim.;Her+Zaman+%C3%96%C4%9Frenmeye+A%C3%A7%C4%B1%C4%9F%C4%B1m." alt="Merhaba, Ben Ted! - Yazılım Geliştirici" />
         <p style="font-size: 1.1em; margin-top: 8px; margin-bottom: 12px;">
           Kodlarla dünyayı değiştirmeye çalışan bir maceraperest! 🚀
         </p>
@@ -33,7 +33,7 @@
   </a>
   <br/><br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&locale=tr&theme=dracula&hide_border=true&card_width=480&title_color=DB64A2&text_color=EDEDED" alt="1tedd En Çok Kullanılan Diller" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&locale=tr&theme=dracula&hide_border=true&card_width=480&title_color=DB64A2&text_color=EDEDED" alt="En Çok Kullandığım Diller" />
   </a>
 </div>
 
@@ -60,9 +60,8 @@
 ---
 
 <div align="center">
-  <p><em>Sürekli öğreniyor ve kendimi geliştiriyorum. Yeni projeler ve işbirlikleri için her zaman heyecanlıyım!</em></p>
+  <p><em>Sürekli öğreniyor ve kendimi geliştiriyorum. Yeni projeler ve işbirlikleri için her zaman açığım!</em></p>
   <a href="https://github.com/1tedd?tab=repositories" target="_blank">
     <img alt="Projelerim" src="https://img.shields.io/badge/-Projelerime%20G%C3%B6z%20At%C4%B1n-%23333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
-
