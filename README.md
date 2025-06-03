@@ -1,8 +1,10 @@
 <div align="center">
   <a href="https://github.com/1tedd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=79E6F3&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+1tedd!%F0%9F%91%8B;Tutkulu+Bir+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiriciyim.;Her+Zaman+%C3%96%C4%9Frenmeye+A%C3%A7%C4%B1%C4%9F%C4%B1m." alt="Merhaba, Ben 1tedd! - Yazılım Geliştirici" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=79E6F3&center=true&vCenter=true&width=480&lines=Merhaba%2C+Ben+1tedd!%F0%9F%91%8B;Tutkulu+Bir+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiriciyim.;Her+Zaman+%C3%96%C4%9Frenmeye+A%C3%A7%C4%B1%C4%9F%C4%B1m." alt="Merhaba, Ben 1tedd! - Yazılım Geliştirici" />
   </a>
-  <br/>
+  <p style="font-size: 1.1em; margin-top: 10px; margin-bottom: 15px;">
+    Kodlarla dünyayı değiştirmeye çalışan bir maceraperest! 🚀
+  </p>
   <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=DB64A2&style=flat-square&logo=github" alt="1tedd profil görüntülenme sayısı" />
 </div>
 
@@ -59,5 +61,4 @@
     <img alt="Projelerim" src="https://img.shields.io/badge/-Projelerime%20G%C3%B6z%20At%C4%B1n-%23333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
-
 
