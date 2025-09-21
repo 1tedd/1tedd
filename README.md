@@ -1,67 +1,149 @@
 <div align="center">
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=79E6F3&center=true&vCenter=true&width=700&lines=Merhaba%2C+Ben+Ted!%F0%9F%91%8B;Tutkulu+Bir+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftiricisiyim.;Her+Zaman+%C3%96%C4%9Frenmeye+A%C3%A7%C4%B1%C4%9F%C4%B1m." alt="Merhaba, Ben Ted! - Yazılım Geliştirici" />
-        <p style="font-size: 1.1em; margin-top: 8px; margin-bottom: 12px;">
-          Kodlarla dünyayı değiştirmeye çalışan bir maceraperest! 🚀
-        </p>
-        <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=DB64A2&style=flat-square&logo=github" alt="1tedd profil görüntülenme sayısı" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+1tedd!+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
 </div>
-
----
-
-### 🔗 **Benimle İletişime Geçin**
-<p align="center">
-  <a href="https://www.instagram.com/merhabalar.ben.volkan.konak/" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discordapp.com/users/1ted_" target="_blank" style="margin: 0 8px;">
-    <img src="https://img.shields.io/badge/Discord-1ted_-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
-
----
-
-### 📊 **GitHub İstatistiklerim**
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=1tedd&show_icons=true&locale=tr&theme=dracula&hide_border=true&rank_icon=github&card_width=480&title_color=DB64A2&icon_color=79E6F3&text_color=EDEDED" alt="1tedd GitHub İstatistikleri" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&locale=tr&theme=dracula&hide_border=true&card_width=480&title_color=DB64A2&text_color=EDEDED" alt="En Çok Kullandığım Diller" />
-  </a>
-</div>
-
----
-
-### 💻 **Teknoloji ve Araçlarım**
-<div style="text-align: center;">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" style="margin:6px;"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin:6px;"/>
-</div>
-
----
 
 <div align="center">
-  <p><em>Sürekli öğreniyor ve kendimi geliştiriyorum. Yeni projeler ve işbirlikleri için her zaman açığım!</em></p>
-  <a href="https://github.com/1tedd?tab=repositories" target="_blank">
-    <img alt="Projelerim" src="https://img.shields.io/badge/-Projelerime%20G%C3%B6z%20At%C4%B1n-%23333?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=1tedd&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 🚀 Hakkımda
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```javascript
+const tedd = {
+    pronouns: "he/him",
+    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Bootstrap", "Tailwind", "Sass"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            python: ["Django", "Flask"],
+            java: ["Spring Boot"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        misc: ["Firebase", "Socket.IO", "Docker"]
+    },
+    currentFocus: "Full Stack Development ile büyüleyici deneyimler yaratmak",
+    funFact: "Kod yazarken en sevdiğim içecek kahve ☕"
+};
+```
+
+## 🛠️ Teknoloji Yığınım
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,mongodb,mysql,postgresql" />
+
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,figma" />
+
+</div>
+
+## 📊 GitHub İstatistiklerim
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tedd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tedd&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🎯 Odak Alanlarım
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+      <br><strong>React Development</strong>
+      <br>Modern ve interaktif kullanıcı arayüzleri
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />
+      <br><strong>Next.js</strong>
+      <br>Server-side rendering ve full-stack uygulamalar
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+      <br><strong>Node.js</strong>
+      <br>Scalable backend çözümleri
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+      <br><strong>Python</strong>
+      <br>Data science ve web development
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+      <br><strong>Java</strong>
+      <br>Enterprise uygulamalar ve backend sistemler
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+      <br><strong>JavaScript</strong>
+      <br>Full-stack web development
+    </td>
+  </tr>
+</table>
+
+## 🌟 Öne Çıkan Projelerim
+
+<div align="center">
+  <a href="https://github.com/1tedd?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1tedd&repo=repo-name&theme=radical" />
   </a>
+</div>
+
+## 📈 Aktivite Grafiği
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1tedd&theme=react-dark&bg_color=20232a&hide_border=true" />
+</div>
+
+## 🎵 Şu An Dinlediğim
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify_username&count=1" alt="Spotify" />
+</div>
+
+## 💬 İletişim
+
+<div align="center">
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/volkaneness)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1ted_)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1tedd)
+  
+</div>
+
+## 🎨 Kod Felsefem
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="Profile views" />
+  
+  <h3>💭 "Kod yazmak sanat, problem çözmek tutkudur." 💭</h3>
+  
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
