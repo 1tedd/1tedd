@@ -115,10 +115,6 @@ const tedd = {
 ## 🎵 Şu An Dinlediğim
 
 <div align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/402607131016036352?theme=dark&bg=1c1c1c&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Şu%20an%20müzik%20dinlemiyor" alt="Spotify Playing" />
-</div>
-
-<div align="center">
   <a href="https://discord.com/users/402607131016036352">
     <img src="https://lanyard.cnrad.dev/api/402607131016036352" alt="Discord Status" />
   </a>
@@ -143,7 +139,7 @@ const tedd = {
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/1tedd/count.svg" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=1tedd&icon=0&color=0" alt="Visitor Count" />
   
   <h3>💭 "Kod yazmak sanat, problem çözmek tutkudur." 💭</h3>
   
