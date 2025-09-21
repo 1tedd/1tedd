@@ -157,8 +157,13 @@ const tedd = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <br><br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1tedd%2F1tedd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Ziyaret&edge_flat=false" alt="Visitor Count"/>
+</div>
+
+<div align="center">
+  <h4>🎮 Anime Karakterli Görünüm</h4>
+  <img width="100%" src="https://count.getloli.com/get/@1tedd-main?theme=rule34" alt="Anime Counter" />
+  <br>
+  <small><i>Yukarıdaki sayı korunur, karakterler sadece görsel amaçlıdır</i></small>
 </div>
 
 <div align="center">
