@@ -156,12 +156,12 @@ const tedd = {
 ### 👀 Profil Görüntülenme
 
 <div align="center">
-  <h4>🎮 Anime Karakterli Sayaç</h4>
-  <img width="100%" src="https://count.getloli.com/get/@1tedd-github-profile?theme=rule34" alt="Anime Counter" />
-  <br>
-  <small><i>Bu sayaç artık kalıcı olarak saklanacak ve sıfırlanmayacak</i></small>
+  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Yedek%20Sayaç&color=brightgreen&style=flat" alt="Backup Counter" />
+  <h4>🎮 Anime Karakterli Görünüm (Sadece Görsel)</h4>
+  <img width="100%" src="https://count.getloli.com/get/@1tedd-display?theme=rule34" alt="Anime Display" />
+  <br>
+  <small><i>⚠️ Anime karakterler sadece görsel amaçlıdır. Gerçek sayı yukarıdadır.</i></small>
 </div>
 
 <div align="center">
