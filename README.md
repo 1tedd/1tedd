@@ -139,7 +139,7 @@ const tedd = {
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=1tedd&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views" />
   
   <h3>💭 "Kod yazmak sanat, problem çözmek tutkudur." 💭</h3>
   
