@@ -139,8 +139,25 @@ const tedd = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  
+  <img width="100%" height="95%" src="https://i.pinimg.com/736x/46/79/a5/4679a53c15b4c4c8b4b6c7e1c5a8e2f3.jpg" alt="Anime Banner">
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=1tedd&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget">
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,typescript,html,css,nodejs,python,java,react,nextjs&theme=darkmode" alt="Skills Widget">
+</div>
+
+### 🎮 Daha Fazla Detay İçin Profil
+#### 👀 Görüntülenme
+
+<div align="center">
+  <img width="100%" src="https://count.getloli.com/get/@1tedd?theme=asoul" alt="Visitor Count" />
+</div>
+
+<div align="center">
   <h3>💭 "Kod yazmak sanat, problem çözmek tutkudur." 💭</h3>
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
