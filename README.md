@@ -115,7 +115,7 @@ const tedd = {
 ## 🎵 Şu An Dinlediğim
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=spotify_username&count=1" alt="Spotify" />
+  <img src="https://lanyard.cnrad.dev/api/402607131016036352?theme=dark&bg=1f2937&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Şu%20an%20bir%20şey%20dinlemiyor..." alt="Discord Presence" />
 </div>
 
 ## 💬 İletişim
@@ -137,7 +137,7 @@ const tedd = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://count.getloli.com/get/@1tedd?theme=rule34" alt="Profile views" />
   
   <h3>💭 "Kod yazmak sanat, problem çözmek tutkudur." 💭</h3>
   
