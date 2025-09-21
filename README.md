@@ -139,22 +139,26 @@ const tedd = {
 ---
 
 <div align="center">
-  <img width="100%" height="95%" src="https://i.pinimg.com/736x/46/79/a5/4679a53c15b4c4c8b4b6c7e1c5a8e2f3.jpg" alt="Anime Banner">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=1tedd&fontSize=80&fontColor=fff&animation=twinkling" alt="Header"/>
 </div>
 
+### 🎮 Profil Özeti
+
 <div align="center">
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=1tedd&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub Profile Widget">
+  
+| 📊 **GitHub Stats** | 🎯 **Aktivite** |
+|:---:|:---:|
+| ![Repos](https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge) | ![Commits](https://img.shields.io/badge/Commits-500+-green?style=for-the-badge) |
+| ![Stars](https://img.shields.io/badge/Stars-50+-yellow?style=for-the-badge) | ![Followers](https://img.shields.io/badge/Followers-10+-red?style=for-the-badge) |
+
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,typescript,html,css,nodejs,python,java,react,nextjs&theme=darkmode" alt="Skills Widget">
-</div>
-
-### 🎮 Daha Fazla Detay İçin Profil
-#### 👀 Görüntülenme
+### 👀 Profil Görüntülenme
 
 <div align="center">
-  <img width="100%" src="https://count.getloli.com/get/@1tedd?theme=asoul" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Ziyaretçi&color=brightgreen&style=for-the-badge" alt="Profile views" />
+  <br><br>
+  <img width="100%" src="https://count.getloli.com/get/@1tedd-profile?theme=rule34" alt="Anime Counter" />
 </div>
 
 <div align="center">
