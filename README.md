@@ -156,9 +156,9 @@ const tedd = {
 ### 👀 Profil Görüntülenme
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Ziyaretçi&color=brightgreen&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views" />
   <br><br>
-  <img width="100%" src="https://count.getloli.com/get/@1tedd-profile?theme=rule34" alt="Anime Counter" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1tedd%2F1tedd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Ziyaret&edge_flat=false" alt="Visitor Count"/>
 </div>
 
 <div align="center">
