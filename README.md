@@ -19,36 +19,41 @@
 <div align="center">
   <h3>🎌 Anime Karakterli Profil Sayacı</h3>
   
-  <!-- Gerçek sayaç (gizli ama çalışıyor) -->
-  <img src="https://komarev.com/ghpvc/?username=1tedd&style=flat-square&color=blueviolet" alt="Profile views" style="display: none;" />
-  
-  <!-- Özel Anime Karakter Gösterimi -->
-  <div style="background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460); padding: 25px; border-radius: 15px; margin: 15px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
-    <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom: 15px;">
-      <!-- Anime Karakterler - Her basamak için -->
+  <!-- Anime karakter gösterimi -->
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+    
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
+      
       <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="50" height="50" alt="7"/>
-        <div style="background: #7c3aed; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold;">7</div>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="70" height="70" alt="Ninja"/>
+        <div style="background: #ff6b6b; color: white; padding: 8px 15px; border-radius: 15px; margin-top: 10px; font-weight: bold; font-size: 20px;">🥷</div>
       </div>
+      
       <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="50" height="50" alt="7"/>
-        <div style="background: #7c3aed; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold;">7</div>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" width="70" height="70" alt="Mage"/>
+        <div style="background: #4834d4; color: white; padding: 8px 15px; border-radius: 15px; margin-top: 10px; font-weight: bold; font-size: 20px;">🧙‍♂️</div>
       </div>
+      
       <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" width="50" height="50" alt="3"/>
-        <div style="background: #7c3aed; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold;">3</div>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Superhero.png" width="70" height="70" alt="Superhero"/>
+        <div style="background: #00d2d3; color: white; padding: 8px 15px; border-radius: 15px; margin-top: 10px; font-weight: bold; font-size: 20px;">🦸‍♂️</div>
       </div>
+      
       <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" width="50" height="50" alt="0"/>
-        <div style="background: #7c3aed; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold;">0</div>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Vampire.png" width="70" height="70" alt="Vampire"/>
+        <div style="background: #ff9ff3; color: white; padding: 8px 15px; border-radius: 15px; margin-top: 10px; font-weight: bold; font-size: 20px;">🧛‍♂️</div>
       </div>
+      
     </div>
+    
+    <!-- Gerçek sayaç -->
     <div style="text-align: center;">
       <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
     </div>
+    
   </div>
   
-  <p><em>⚡ Anime karakterler profil görüntülenme sayınızı temsil ediyor!</em></p>
+  <p><em>🎭 Anime karakterler profilinizi ziyaret eden kişileri temsil ediyor!</em></p>
 </div>
 
 ## 🚀 Hakkımda
@@ -155,9 +160,13 @@ const ted = {
 ## 🎵 Şu An Dinlediğim
 
 <div align="center">
-  <a href="https://discord.com/users/402607131016036352">
-    <img src="https://lanyard.cnrad.dev/api/402607131016036352?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Müzik%20dinlemiyorum" alt="Spotify Status" />
-  </a>
+  <!-- Sadece Spotify gösterimi -->
+  <div style="background: linear-gradient(135deg, #1DB954 0%, #1ed760 100%); padding: 20px; border-radius: 15px; margin: 15px 0; box-shadow: 0 10px 30px rgba(29, 185, 84, 0.3); max-width: 450px;">
+    <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🎵 Spotify Durumum</h4>
+    <a href="https://discord.com/users/402607131016036352" style="text-decoration: none;">
+      <img src="https://lanyard.cnrad.dev/api/402607131016036352?theme=dark&bg=transparent&animated=true&hideDiscrim=true&borderRadius=10px&hideTimestamp=true&hideActivities=code" alt="Spotify Status" style="width: 100%; border-radius: 10px;" />
+    </a>
+  </div>
 </div>
 
 ## 📈 Aktivite Grafiği
