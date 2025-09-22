@@ -1,175 +1,175 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ted&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+1tedd!+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+Ted!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%26+Code+Enthusiast+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+Expert;Next.js+%7C+Node.js+%7C+Python+%7C+Java;C%23+Developer+%26+Tech+Innovator" alt="Typing SVG" />
+  <img src="https://github-profile-trophy.vercel.app/?username=1tedd&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🎮 Discord Durumum
+## 🚀 Hakkımda
 
-<div align="center">
-  <a href="https://discord.com/users/402607131016036352">
-    <img src="https://lanyard.cnrad.dev/api/402607131016036352?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Kodlama%20modunda..." alt="Discord Status" />
-  </a>
-</div>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## 👀 Profil Görüntülenme - Anime Karakterli Gösterim
+```javascript
+const tedd = {
+    pronouns: "he/him",
+    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Bootstrap", "Tailwind", "Sass"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            python: ["Django", "Flask"],
+            java: ["Spring Boot"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        misc: ["Firebase", "Socket.IO", "Docker"]
+    },
+    currentFocus: "Full Stack Development ile büyüleyici deneyimler yaratmak",
+    funFact: "Kod yazarken en sevdiğim içecek kahve ☕"
+};
+```
 
-<div align="center">
-
-### 🎌 Anime Karakterli Profil Sayacı
-
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="80" height="80"/>
-<br>
-<img src="https://img.shields.io/badge/-8-ff6b6b?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K"/>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" width="80" height="80"/>
-<br>
-<img src="https://img.shields.io/badge/-0-4834d4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K"/>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Superhero.png" width="80" height="80"/>
-<br>
-<img src="https://img.shields.io/badge/-8-00d2d3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K"/>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Vampire.png" width="80" height="80"/>
-<br>
-<img src="https://img.shields.io/badge/-4-ff9ff3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
-
-*🎭 Her anime karakter sayınızın bir basamağını temsil ediyor! Komarev sayacınızla senkronize.*
-
-</div>
-
-
-## 🛠️ Teknoloji Yığınım
+## 🛠️HTeknoloji Yığınmd
 
 <div align="center">
 
-### 🎨 Frontend Technologies
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 
-### ⚙️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,spring,django,flask,mongodb,postgresql,mysql" />
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,mongodb,mysql,postgresql" />
 
-### ☁️ Cloud & Tools
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github,vscode,linux,redis,firebase" />
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,figma" />
 
 </div>
 
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tedd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css&custom_title=En%20Çok%20Kullandığım%20Diller"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tedd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tedd&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tedd&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🎯 Uzmanlık Alanlarım
+## 🎯 Odak Alanlarım
 
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
-      <br><strong>React & Next.js</strong>
-      <br><em>Modern SPA ve SSR uygulamaları</em>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+      <br><strong>React Development</strong>
+      <br>Modern ve interaktif kullanıcı arayüzleri
     </td>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />
-      <br><strong>Node.js Backend</strong>
-      <br><em>Scalable API ve microservices</em>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />
+      <br><strong>Next.js</strong>
+      <br>Server-side rendering ve full-stack uygulamalar
     </td>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
-      <br><strong>Python Development</strong>
-      <br><em>Web apps, automation, data science</em>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+      <br><strong>Node.js</strong>
+      <br>Scalable backend çözümleri
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
-      <br><strong>Java Enterprise</strong>
-      <br><em>Spring Boot, microservices</em>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+      <br><strong>Python</strong>
+      <br>Data science ve web development
     </td>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" />
-      <br><strong>C# .NET</strong>
-      <br><em>Desktop ve web uygulamaları</em>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+      <br><strong>Java</strong>
+      <br>Enterprise uygulamalar ve backend sistemler
     </td>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
-      <br><strong>Full Stack JS</strong>
-      <br><em>End-to-end JavaScript çözümleri</em>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+      <br><strong>JavaScript</strong>
+      <br>Full-stack web development
     </td>
   </tr>
 </table>
 
-## 🎵 Şu An Dinlediğim
+## 🌟 Öne Çıkan Projelerim
 
 <div align="center">
-  <!-- Sadece Spotify gösterimi -->
-  <div style="background: linear-gradient(135deg, #1DB954 0%, #1ed760 100%); padding: 20px; border-radius: 15px; margin: 15px 0; box-shadow: 0 10px 30px rgba(29, 185, 84, 0.3); max-width: 450px;">
-    <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🎵 Spotify Durumum</h4>
-    <a href="https://discord.com/users/402607131016036352" style="text-decoration: none;">
-      <img src="https://lanyard.cnrad.dev/api/402607131016036352?theme=dark&bg=transparent&animated=true&hideDiscrim=true&borderRadius=10px&hideTimestamp=true&hideActivities=true" alt="Spotify Status" style="width: 100%; border-radius: 10px;" />
-    </a>
-  </div>
+  <a href="https://github.com/1tedd?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1tedd&repo=repo-name&theme=radical" />
+  </a>
 </div>
 
 ## 📈 Aktivite Grafiği
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1tedd&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1tedd&theme=react-dark&bg_color=20232a&hide_border=true" />
 </div>
 
-## 🏆 GitHub Başarılarım
+## 🎵 Şu An Dinlediğim
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1tedd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <a href="https://discord.com/users/402607131016036352">
+    <img src="https://lanyard.cnrad.dev/api/402607131016036352" alt="Discord Status" />
+  </a>
 </div>
 
-## 💬 İletişim & Sosyal Medya
+## 💬 İletişim
 
 <div align="center">
   
-  [![Discord](https://img.shields.io/badge/Discord-1ted_-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/402607131016036352)
-  [![Instagram](https://img.shields.io/badge/Instagram-volkaneness-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/volkaneness)
-  [![GitHub](https://img.shields.io/badge/GitHub-1tedd-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1tedd)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/volkaneness)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1ted_)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1tedd)
   
 </div>
 
 ## 🎨 Kod Felsefem
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
 
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=1tedd&fontSize=80&fontColor=fff&animation=twinkling" alt="Header"/>
+</div>
+
+### 🎮 Profil Özeti
+
+<div align="center">
   
-### 💭 "Kod yazmak sanat, problem çözmek tutkudur." 💭
+| 📊 **GitHub Stats** | 🎯 **Aktivite** |
+|:---:|:---:|
+| ![Repos](https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge) | ![Commits](https://img.shields.io/badge/Commits-500+-green?style=for-the-badge) |
+| ![Stars](https://img.shields.io/badge/Stars-50+-yellow?style=for-the-badge) | ![Followers](https://img.shields.io/badge/Followers-10+-red?style=for-the-badge) |
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
+### 👀İPrsfvi Görü=tülntmr
+ 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <br><br>
+  <h4>🎮 Anime Karakterli Görünüm (Sadece Görsel)</h4>
+  <img width="100%" src="https://count.getloli.com/get/@1tedd-display?theme=rule34" alt="Anime Display" />
+  <br>
+  <small><i>⚠️ Anime karakterler sadece görsel amaçlıdır. Gerçek sayı yukarıdadır.</i></small>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
+  <ih3>💭 "Kod yazmak sanat, problem çözmek tutkudur." 💭</h3>
+  
+  <mg src="https://graw.ithub-us-ceontlntacom?platanr/sak/output/giheub-cni&ributi-n-gaid-snak=-dauk.svg ad
+#</dmv>
+
+<div align="center">
+  <aimghsec"ttps://igcapsble-rendercver/el.apptapi?dyp_=wbving&color-g-adient&hpeght=100&secrron=foot/r> /
+ </gtv>
