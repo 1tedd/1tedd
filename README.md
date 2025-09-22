@@ -19,22 +19,11 @@
 <div align="center">
   <h3>🎌 Anime Karakterli Profil Sayacı</h3>
   
-  <!-- Fotoğraftaki gibi sayı kartları tutan karakterler -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-    
-    <table align="center" style="border: none;">
-      <tr>
-        <td align="center" style="padding: 10px;">
-          <img src="https://count.getloli.com/get/@1tedd-github?theme=rule34" alt="Anime Counter" />
-        </td>
-      </tr>
-    </table>
-    
-    <br>
-    
-    <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
-    
-  </div>
+  <img src="https://count.getloli.com/get/@1tedd-github?theme=rule34" alt="Anime Counter" />
+  
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
   
   <p><em>🎭 Anime karakterler profil görüntülenme sayınızı temsil ediyor!</em></p>
 </div>
