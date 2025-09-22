@@ -17,48 +17,15 @@
 ## 👀 Profil Görüntülenme - Anime Karakterli Gösterim
 
 <div align="center">
-  <h3>🎌 Anime Karakterli Profil Sayacı</h3>
-  
-  <!-- Komarev sayacınızla senkronize anime karakterler -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-    
-    <!-- Anime karakterler - sayınızı temsil ediyor -->
-    <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-bottom: 20px; flex-wrap: wrap;">
-      
-      <!-- 8 karakteri -->
-      <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="50" height="50" alt="8"/>
-        <div style="background: #ff6b6b; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold; font-size: 16px;">8</div>
-      </div>
-      
-      <!-- 0 karakteri -->
-      <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" width="50" height="50" alt="0"/>
-        <div style="background: #4834d4; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold; font-size: 16px;">0</div>
-      </div>
-      
-      <!-- 8 karakteri -->
-      <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Superhero.png" width="50" height="50" alt="8"/>
-        <div style="background: #00d2d3; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold; font-size: 16px;">8</div>
-      </div>
-      
-      <!-- 4 karakteri -->
-      <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Vampire.png" width="50" height="50" alt="4"/>
-        <div style="background: #ff9ff3; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold; font-size: 16px;">4</div>
-      </div>
-      
-    </div>
-    
-    <!-- Gerçek sayaç -->
-    <div style="text-align: center;">
-      <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
-    </div>
-    
-  </div>
-  
-  <p><em>🎭 Her anime karakter sayınızın bir basamağını temsil ediyor! (8-0-8-4)</em></p>
+
+### 🎌 Anime Karakterli Profil Sayacı
+
+🥷 **8** | 🧙‍♂️ **0** | 🦸‍♂️ **8** | 🧛‍♂️ **4**
+
+<img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
+
+*🎭 Her emoji sayınızın bir basamağını temsil ediyor! (8-0-8-4)*
+
 </div>
 
 
