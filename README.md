@@ -19,82 +19,26 @@
 <div align="center">
   <h3>🎌 Anime Karakterli Profil Sayacı</h3>
   
-  <table align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.4); border: none;">
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="60" height="60" alt="Ninja"/>
-        <br>
-        <span style="background: #ff6b6b; color: white; padding: 5px 10px; border-radius: 10px; font-weight: bold;">🥷</span>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" width="60" height="60" alt="Mage"/>
-        <br>
-        <span style="background: #4834d4; color: white; padding: 5px 10px; border-radius: 10px; font-weight: bold;">🧙‍♂️</span>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Superhero.png" width="60" height="60" alt="Superhero"/>
-        <br>
-        <span style="background: #00d2d3; color: white; padding: 5px 10px; border-radius: 10px; font-weight: bold;">🦸‍♂️</span>
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Vampire.png" width="60" height="60" alt="Vampire"/>
-        <br>
-        <span style="background: #ff9ff3; color: white; padding: 5px 10px; border-radius: 10px; font-weight: bold;">🧛‍♂️</span>
-      </td>
-    </tr>
-  </table>
+  <!-- Fotoğraftaki gibi sayı kartları tutan karakterler -->
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
+    
+    <table align="center" style="border: none;">
+      <tr>
+        <td align="center" style="padding: 10px;">
+          <img src="https://count.getloli.com/get/@1tedd-github?theme=rule34" alt="Anime Counter" />
+        </td>
+      </tr>
+    </table>
+    
+    <br>
+    
+    <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
+    
+  </div>
   
-  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
-  
-  <p><em>🎭 Anime karakterler profilinizi ziyaret eden kişileri temsil ediyor!</em></p>
+  <p><em>🎭 Anime karakterler profil görüntülenme sayınızı temsil ediyor!</em></p>
 </div>
 
-## 🚀 Hakkımda
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>👨‍💻 Kişisel Bilgiler</h3>
-        <ul>
-          <li>🏠 <strong>Konum:</strong> Turkey 🇹🇷</li>
-          <li>💼 <strong>Pozisyon:</strong> Full Stack Developer</li>
-          <li>🎯 <strong>Odak:</strong> Modern web teknolojileri</li>
-          <li>☕ <strong>Favori İçecek:</strong> Kahve</li>
-          <li>🎵 <strong>Çalışma Müziği:</strong> Lo-fi</li>
-        </ul>
-        
-        <h3>💻 Kod Dilleri</h3>
-        <ul>
-          <li>🟨 JavaScript & TypeScript</li>
-          <li>🐍 Python</li>
-          <li>☕ Java</li>
-          <li>🔷 C#</li>
-          <li>🌐 HTML & CSS</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation"/>
-        
-        <h3>🎯 Uzmanlık Alanları</h3>
-        <ul>
-          <li>🚀 <strong>Frontend:</strong> React, Next.js, Vue.js</li>
-          <li>⚙️ <strong>Backend:</strong> Node.js, Python, Java</li>
-          <li>🗄️ <strong>Database:</strong> MongoDB, PostgreSQL</li>
-          <li>☁️ <strong>Cloud:</strong> AWS, Azure, GCP</li>
-          <li>🛠️ <strong>Tools:</strong> Docker, Git, Linux</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h3>💡 Geliştirme Felsefem</h3>
-  <blockquote>
-    <p><em>"Kod yazmak sanat, problem çözmek tutkudur. Her satır kod, bir hikayenin parçasıdır."</em></p>
-  </blockquote>
-</div>
 
 ## 🛠️ Teknoloji Yığınım
 
@@ -168,7 +112,7 @@
   <div style="background: linear-gradient(135deg, #1DB954 0%, #1ed760 100%); padding: 20px; border-radius: 15px; margin: 15px 0; box-shadow: 0 10px 30px rgba(29, 185, 84, 0.3); max-width: 450px;">
     <h4 style="color: white; margin: 0 0 15px 0; font-size: 18px;">🎵 Spotify Durumum</h4>
     <a href="https://discord.com/users/402607131016036352" style="text-decoration: none;">
-      <img src="https://lanyard.cnrad.dev/api/402607131016036352?theme=dark&bg=transparent&animated=true&hideDiscrim=true&borderRadius=10px&hideTimestamp=true&hideActivities=code" alt="Spotify Status" style="width: 100%; border-radius: 10px;" />
+      <img src="https://lanyard.cnrad.dev/api/402607131016036352?theme=dark&bg=transparent&animated=true&hideDiscrim=true&borderRadius=10px&hideTimestamp=true&hideActivities=true" alt="Spotify Status" style="width: 100%; border-radius: 10px;" />
     </a>
   </div>
 </div>
