@@ -1,9 +1,35 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+1tedd!+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ted&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1tedd&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+Ted!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%26+Code+Enthusiast+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript+Expert;Next.js+%7C+Node.js+%7C+Python+%7C+Java;C%23+Developer+%26+Tech+Innovator" alt="Typing SVG" />
+</div>
+
+## 🎮 Discord Durumum
+
+<div align="center">
+  <a href="https://discord.com/users/402607131016036352">
+    <img src="https://lanyard.cnrad.dev/api/402607131016036352?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Kodlama%20modunda..." alt="Discord Status" />
+  </a>
+</div>
+
+## 👀 Profil Görüntülenme - Anime Karakterli Gösterim
+
+<div align="center">
+  <h3>🎌 Anime Karakterli Profil Sayacı</h3>
+  
+  <!-- Gerçek sayaç (gizli ama çalışıyor) -->
+  <img src="https://komarev.com/ghpvc/?username=1tedd&style=flat-square&color=blueviolet" alt="Profile views" style="display: none;" />
+  
+  <!-- Anime karakterli görsel gösterim -->
+  <div style="background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460); padding: 20px; border-radius: 15px; margin: 10px 0;">
+    <img src="https://count.getloli.com/get/@1tedd-github?theme=rule34" alt="Anime Profile Counter" />
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
+  </div>
+  
+  <p><em>⚡ Anime karakterler profil görüntülenme sayınızı temsil ediyor!</em></p>
 </div>
 
 ## 🚀 Hakkımda
@@ -11,25 +37,34 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```javascript
-const tedd = {
+const ted = {
     pronouns: "he/him",
-    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    location: "Turkey 🇹🇷",
+    code: [
+        "JavaScript", "TypeScript", "Python", 
+        "Java", "C#", "HTML", "CSS"
+    ],
+    askMeAbout: [
+        "web dev", "full stack", "tech", 
+        "app dev", "problem solving"
+    ],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Bootstrap", "Tailwind", "Sass"]
+            js: ["React", "Next.js", "Vue.js"],
+            css: ["Tailwind", "Bootstrap", "Sass", "Styled Components"]
         },
         backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask"],
-            java: ["Spring Boot"]
+            js: ["Node.js", "Express", "Nest.js"],
+            python: ["Django", "Flask", "FastAPI"],
+            java: ["Spring Boot", "Spring Framework"],
+            csharp: [".NET Core", "ASP.NET", "Entity Framework"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO", "Docker"]
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+        cloud: ["AWS", "Azure", "Google Cloud", "Vercel"],
+        tools: ["Docker", "Git", "Linux", "VS Code"]
     },
-    currentFocus: "Full Stack Development ile büyüleyici deneyimler yaratmak",
-    funFact: "Kod yazarken en sevdiğim içecek kahve ☕"
+    currentFocus: "Full Stack Development ile inovatif çözümler üretmek",
+    funFact: "Kod yazarken en sevdiğim içecek kahve ☕ ve lo-fi müzik 🎵"
 };
 ```
 
@@ -37,139 +72,120 @@ const tedd = {
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+### 🎨 Frontend Technologies
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,sass" />
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,mongodb,mysql,postgresql" />
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,spring,django,flask,mongodb,postgresql,mysql" />
 
-### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,firebase,figma" />
+### ☁️ Cloud & Tools
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,git,github,vscode,linux,redis,firebase" />
 
 </div>
 
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tedd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tedd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tedd&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1tedd&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
-## 🎯 Odak Alanlarım
+## 🎯 Uzmanlık Alanlarım
 
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
-      <br><strong>React Development</strong>
-      <br>Modern ve interaktif kullanıcı arayüzleri
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" />
+      <br><strong>React & Next.js</strong>
+      <br><em>Modern SPA ve SSR uygulamaları</em>
     </td>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" />
-      <br><strong>Next.js</strong>
-      <br>Server-side rendering ve full-stack uygulamalar
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" />
+      <br><strong>Node.js Backend</strong>
+      <br><em>Scalable API ve microservices</em>
     </td>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
-      <br><strong>Node.js</strong>
-      <br>Scalable backend çözümleri
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
+      <br><strong>Python Development</strong>
+      <br><em>Web apps, automation, data science</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-      <br><strong>Python</strong>
-      <br>Data science ve web development
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" />
+      <br><strong>Java Enterprise</strong>
+      <br><em>Spring Boot, microservices</em>
     </td>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
-      <br><strong>Java</strong>
-      <br>Enterprise uygulamalar ve backend sistemler
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" />
+      <br><strong>C# .NET</strong>
+      <br><em>Desktop ve web uygulamaları</em>
     </td>
     <td align="center" width="200">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-      <br><strong>JavaScript</strong>
-      <br>Full-stack web development
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />
+      <br><strong>Full Stack JS</strong>
+      <br><em>End-to-end JavaScript çözümleri</em>
     </td>
   </tr>
 </table>
 
-## 🌟 Öne Çıkan Projelerim
+## 🎵 Şu An Dinlediğim
 
 <div align="center">
-  <a href="https://github.com/1tedd?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1tedd&repo=repo-name&theme=radical" />
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l77y4iqjzxjdx5ptcgoq5xvjwi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
 
 ## 📈 Aktivite Grafiği
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1tedd&theme=react-dark&bg_color=20232a&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1tedd&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true" />
 </div>
 
-## 🎵 Şu An Dinlediğim
+## 🏆 GitHub Başarılarım
 
 <div align="center">
-  <a href="https://discord.com/users/402607131016036352">
-    <img src="https://lanyard.cnrad.dev/api/402607131016036352" alt="Discord Status" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=1tedd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-## 💬 İletişim
+## 💬 İletişim & Sosyal Medya
 
 <div align="center">
   
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/volkaneness)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1ted_)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1tedd)
+  [![Discord](https://img.shields.io/badge/Discord-1ted_-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/402607131016036352)
+  [![Instagram](https://img.shields.io/badge/Instagram-volkaneness-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/volkaneness)
+  [![GitHub](https://img.shields.io/badge/GitHub-1tedd-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1tedd)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erhanoverbold@gmail.com)
   
 </div>
 
 ## 🎨 Kod Felsefem
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
+</div>
+
+## 🌟 Öne Çıkan Projelerim
+
+<div align="center">
+  <a href="https://github.com/1tedd?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1tedd&repo=awesome-project&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=1tedd&fontSize=80&fontColor=fff&animation=twinkling" alt="Header"/>
-</div>
-
-### 🎮 Profil Özeti
-
-<div align="center">
   
-| 📊 **GitHub Stats** | 🎯 **Aktivite** |
-|:---:|:---:|
-| ![Repos](https://img.shields.io/badge/Repositories-20+-blue?style=for-the-badge) | ![Commits](https://img.shields.io/badge/Commits-500+-green?style=for-the-badge) |
-| ![Stars](https://img.shields.io/badge/Stars-50+-yellow?style=for-the-badge) | ![Followers](https://img.shields.io/badge/Followers-10+-red?style=for-the-badge) |
+### 💭 "Kod yazmak sanat, problem çözmek tutkudur." 💭
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
-### 👀 Profil Görüntülenme
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <br><br>
-  <h4>🎮 Anime Karakterli Görünüm (Sadece Görsel)</h4>
-  <img width="100%" src="https://count.getloli.com/get/@1tedd-display?theme=rule34" alt="Anime Display" />
-  <br>
-  <small><i>⚠️ Anime karakterler sadece görsel amaçlıdır. Gerçek sayı yukarıdadır.</i></small>
-</div>
-
-<div align="center">
-  <h3>💭 "Kod yazmak sanat, problem çözmek tutkudur." 💭</h3>
-  
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
