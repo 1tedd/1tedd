@@ -22,11 +22,30 @@
   <!-- Gerçek sayaç (gizli ama çalışıyor) -->
   <img src="https://komarev.com/ghpvc/?username=1tedd&style=flat-square&color=blueviolet" alt="Profile views" style="display: none;" />
   
-  <!-- Anime karakterli görsel gösterim -->
-  <div style="background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460); padding: 20px; border-radius: 15px; margin: 10px 0;">
-    <img src="https://count.getloli.com/get/@1tedd-github?theme=rule34" alt="Anime Profile Counter" />
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
+  <!-- Özel Anime Karakter Gösterimi -->
+  <div style="background: linear-gradient(45deg, #1a1a2e, #16213e, #0f3460); padding: 25px; border-radius: 15px; margin: 15px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+    <div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom: 15px;">
+      <!-- Anime Karakterler - Her basamak için -->
+      <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="50" height="50" alt="7"/>
+        <div style="background: #7c3aed; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold;">7</div>
+      </div>
+      <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="50" height="50" alt="7"/>
+        <div style="background: #7c3aed; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold;">7</div>
+      </div>
+      <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" width="50" height="50" alt="3"/>
+        <div style="background: #7c3aed; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold;">3</div>
+      </div>
+      <div style="text-align: center;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" width="50" height="50" alt="0"/>
+        <div style="background: #7c3aed; color: white; padding: 5px 10px; border-radius: 10px; margin-top: 5px; font-weight: bold;">0</div>
+      </div>
+    </div>
+    <div style="text-align: center;">
+      <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
+    </div>
   </div>
   
   <p><em>⚡ Anime karakterler profil görüntülenme sayınızı temsil ediyor!</em></p>
@@ -87,7 +106,7 @@ const ted = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1tedd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tedd&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css&custom_title=En%20Çok%20Kullandığım%20Diller"/>
 </div>
 
 <div align="center">
@@ -136,7 +155,9 @@ const ted = {
 ## 🎵 Şu An Dinlediğim
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l77y4iqjzxjdx5ptcgoq5xvjwi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://discord.com/users/402607131016036352">
+    <img src="https://lanyard.cnrad.dev/api/402607131016036352?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Müzik%20dinlemiyorum" alt="Spotify Status" />
+  </a>
 </div>
 
 ## 📈 Aktivite Grafiği
@@ -158,7 +179,7 @@ const ted = {
   [![Discord](https://img.shields.io/badge/Discord-1ted_-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/402607131016036352)
   [![Instagram](https://img.shields.io/badge/Instagram-volkaneness-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/volkaneness)
   [![GitHub](https://img.shields.io/badge/GitHub-1tedd-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1tedd)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erhanoverbold@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
   
 </div>
 
@@ -166,14 +187,6 @@ const ted = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" />
-</div>
-
-## 🌟 Öne Çıkan Projelerim
-
-<div align="center">
-  <a href="https://github.com/1tedd?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=1tedd&repo=awesome-project&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
 </div>
 
 ---
