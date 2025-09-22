@@ -19,78 +19,82 @@
 <div align="center">
   <h3>🎌 Anime Karakterli Profil Sayacı</h3>
   
-  <!-- Anime karakter gösterimi -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.4);">
-    
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px; flex-wrap: wrap;">
-      
-      <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="70" height="70" alt="Ninja"/>
-        <div style="background: #ff6b6b; color: white; padding: 8px 15px; border-radius: 15px; margin-top: 10px; font-weight: bold; font-size: 20px;">🥷</div>
-      </div>
-      
-      <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" width="70" height="70" alt="Mage"/>
-        <div style="background: #4834d4; color: white; padding: 8px 15px; border-radius: 15px; margin-top: 10px; font-weight: bold; font-size: 20px;">🧙‍♂️</div>
-      </div>
-      
-      <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Superhero.png" width="70" height="70" alt="Superhero"/>
-        <div style="background: #00d2d3; color: white; padding: 8px 15px; border-radius: 15px; margin-top: 10px; font-weight: bold; font-size: 20px;">🦸‍♂️</div>
-      </div>
-      
-      <div style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Vampire.png" width="70" height="70" alt="Vampire"/>
-        <div style="background: #ff9ff3; color: white; padding: 8px 15px; border-radius: 15px; margin-top: 10px; font-weight: bold; font-size: 20px;">🧛‍♂️</div>
-      </div>
-      
-    </div>
-    
-    <!-- Gerçek sayaç -->
-    <div style="text-align: center;">
-      <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
-    </div>
-    
-  </div>
+  <table align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 20px 0; box-shadow: 0 15px 35px rgba(0,0,0,0.4); border: none;">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Ninja.png" width="60" height="60" alt="Ninja"/>
+        <br>
+        <span style="background: #ff6b6b; color: white; padding: 5px 10px; border-radius: 10px; font-weight: bold;">🥷</span>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Mage.png" width="60" height="60" alt="Mage"/>
+        <br>
+        <span style="background: #4834d4; color: white; padding: 5px 10px; border-radius: 10px; font-weight: bold;">🧙‍♂️</span>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Superhero.png" width="60" height="60" alt="Superhero"/>
+        <br>
+        <span style="background: #00d2d3; color: white; padding: 5px 10px; border-radius: 10px; font-weight: bold;">🦸‍♂️</span>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Vampire.png" width="60" height="60" alt="Vampire"/>
+        <br>
+        <span style="background: #ff9ff3; color: white; padding: 5px 10px; border-radius: 10px; font-weight: bold;">🧛‍♂️</span>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://komarev.com/ghpvc/?username=1tedd&label=Profil%20Görüntülenme&color=blueviolet&style=for-the-badge" alt="Profile views counter" />
   
   <p><em>🎭 Anime karakterler profilinizi ziyaret eden kişileri temsil ediyor!</em></p>
 </div>
 
 ## 🚀 Hakkımda
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>👨‍💻 Kişisel Bilgiler</h3>
+        <ul>
+          <li>🏠 <strong>Konum:</strong> Turkey 🇹🇷</li>
+          <li>💼 <strong>Pozisyon:</strong> Full Stack Developer</li>
+          <li>🎯 <strong>Odak:</strong> Modern web teknolojileri</li>
+          <li>☕ <strong>Favori İçecek:</strong> Kahve</li>
+          <li>🎵 <strong>Çalışma Müziği:</strong> Lo-fi</li>
+        </ul>
+        
+        <h3>💻 Kod Dilleri</h3>
+        <ul>
+          <li>🟨 JavaScript & TypeScript</li>
+          <li>🐍 Python</li>
+          <li>☕ Java</li>
+          <li>🔷 C#</li>
+          <li>🌐 HTML & CSS</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation"/>
+        
+        <h3>🎯 Uzmanlık Alanları</h3>
+        <ul>
+          <li>🚀 <strong>Frontend:</strong> React, Next.js, Vue.js</li>
+          <li>⚙️ <strong>Backend:</strong> Node.js, Python, Java</li>
+          <li>🗄️ <strong>Database:</strong> MongoDB, PostgreSQL</li>
+          <li>☁️ <strong>Cloud:</strong> AWS, Azure, GCP</li>
+          <li>🛠️ <strong>Tools:</strong> Docker, Git, Linux</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```javascript
-const ted = {
-    pronouns: "he/him",
-    location: "Turkey 🇹🇷",
-    code: [
-        "JavaScript", "TypeScript", "Python", 
-        "Java", "C#", "HTML", "CSS"
-    ],
-    askMeAbout: [
-        "web dev", "full stack", "tech", 
-        "app dev", "problem solving"
-    ],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue.js"],
-            css: ["Tailwind", "Bootstrap", "Sass", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "Nest.js"],
-            python: ["Django", "Flask", "FastAPI"],
-            java: ["Spring Boot", "Spring Framework"],
-            csharp: [".NET Core", "ASP.NET", "Entity Framework"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-        cloud: ["AWS", "Azure", "Google Cloud", "Vercel"],
-        tools: ["Docker", "Git", "Linux", "VS Code"]
-    },
-    currentFocus: "Full Stack Development ile inovatif çözümler üretmek",
-    funFact: "Kod yazarken en sevdiğim içecek kahve ☕ ve lo-fi müzik 🎵"
-};
-```
+<div align="center">
+  <h3>💡 Geliştirme Felsefem</h3>
+  <blockquote>
+    <p><em>"Kod yazmak sanat, problem çözmek tutkudur. Her satır kod, bir hikayenin parçasıdır."</em></p>
+  </blockquote>
+</div>
 
 ## 🛠️ Teknoloji Yığınım
 
